@@ -1,7 +1,73 @@
-# Test-Tool
-A Testing tool developed to test a .jar GUI application
-![image](https://cloud.githubusercontent.com/assets/10437615/12540822/53c44bd4-c2dc-11e5-8424-38a41442ccc3.PNG "Testing Tool")
-![image](https://cloud.githubusercontent.com/assets/10437615/12540824/55dd9cc2-c2dc-11e5-84aa-8c5b26a0b80c.PNG)
-![image](https://cloud.githubusercontent.com/assets/10437615/12540825/57882538-c2dc-11e5-84e0-98360b8d2ab8.PNG)
+```
+# Tic-Tac-Toe-Game
+Tic Tac Toe Game with artificial intelligence
+-----------------------------------------
+Welcome to Tic Tac Toe, my Good Sir!! :) 
+-----------------------------------------
 
-Testing tool created for a .Jar Application using the robot class to simulate mouse clicks
+1|_______|2|_______|3|_______|
+4|_______|5|_______|6|_______|
+7|_______|8|_______|9|_______|
+
+Player1's Turn please enter a valid 1integer from 1-9: 
+1
+-----------------------------------------
+
+1|___X___|2|_______|3|_______|
+4|_______|5|_______|6|_______|
+7|_______|8|_______|9|_______|
+
+Computer's Turn: 
+-----------------------------------------
+
+1|___X___|2|___O___|3|_______|
+4|_______|5|_______|6|_______|
+7|_______|8|_______|9|_______|
+
+Player1's Turn please enter a valid 1integer from 1-9: 
+5
+-----------------------------------------
+
+1|___X___|2|___O___|3|_______|
+4|_______|5|___X___|6|_______|
+7|_______|8|_______|9|_______|
+
+Computer's Turn: 
+-----------------------------------------
+
+1|___X___|2|___O___|3|_______|
+4|_______|5|___X___|6|_______|
+7|___O___|8|_______|9|_______|
+
+Player1's Turn please enter a valid 1integer from 1-9: 
+4
+-----------------------------------------
+
+1|___X___|2|___O___|3|_______|
+4|___X___|5|___X___|6|_______|
+7|___O___|8|_______|9|_______|
+
+Computer's Turn: 
+-----------------------------------------
+
+1|___X___|2|___O___|3|_______|
+4|___X___|5|___X___|6|_______|
+7|___O___|8|_______|9|___O___|
+
+Player1's Turn please enter a valid 1integer from 1-9: 
+3
+-----------------------------------------
+
+1|___X___|2|___O___|3|___X___|
+4|___X___|5|___X___|6|_______|
+7|___O___|8|_______|9|___O___|
+
+Computer's Turn: 
+-----------------------------------------
+
+1|___X___|2|___O___|3|___X___|
+4|___X___|5|___X___|6|_______|
+7|___O___|8|___O___|9|___O___|
+
+ Computer is Victorious!!!
+```
