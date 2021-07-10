@@ -2,7 +2,7 @@
 # Tic-Tac-Toe-Game
 Tic Tac Toe Game with artificial intelligence
 -----------------------------------------
-Welcome to Tic Tac Toe, my Good Sir!! :) 
+Bem-vindo ao Tic Tac Toe, meu bom senhor !! :) 
 -----------------------------------------
 
 1|_______|2|_______|3|_______|
