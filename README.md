@@ -1,5 +1,5 @@
 ```
-# Tic-Tac-Toe-Game
+## Tic-Tac-Toe-Game
 Tic Tac Toe Game with artificial intelligence
 -----------------------------------------
 Bem-vindo ao Tic Tac Toe, meu bom senhor !! :) 
